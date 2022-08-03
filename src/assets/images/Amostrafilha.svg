@@ -1,0 +1,19 @@
+<svg id="Amostra_filha" data-name="Amostra filha" xmlns="http://www.w3.org/2000/svg" width="32.888" height="24.5" viewBox="0 0 32.888 24.5">
+  <g id="Filha">
+    <g id="Amostra">
+      <g id="Group_7105" data-name="Group 7105">
+        <rect id="Rectangle_1790" data-name="Rectangle 1790" width="24" height="24" fill="none"/>
+      </g>
+      <g id="Group_7106" data-name="Group 7106">
+        <path id="Path_6319" data-name="Path 6319" d="M13,11.33,18,18H6l5-6.67V6h2m2.96-2H8.04a.5.5,0,0,0-.39.81L9,6.5v4.17L3.2,18.4A1,1,0,0,0,4,20H20a1,1,0,0,0,.8-1.6L15,10.67V6.5l1.35-1.69A.5.5,0,0,0,15.96,4Z"/>
+      </g>
+      <rect id="Rectangle_1791" data-name="Rectangle 1791" width="12" height="5" transform="translate(6 15)"/>
+    </g>
+    <g id="Amostra_filha-2" data-name="Amostra / filha" transform="translate(-1090 -618.104)">
+      <g id="Group_7106-2" data-name="Group 7106" transform="translate(1111.001 632.256)">
+        <path id="Path_6319-2" data-name="Path 6319" d="M9.6,8.741l3.3,4.314H4.982l3.3-4.314V5.293H9.6M11.56,4H6.329a.322.322,0,0,0-.258.524l.892,1.093v2.7l-3.831,5a.647.647,0,0,0,.528,1.035H14.228a.647.647,0,0,0,.528-1.035l-3.831-5v-2.7l.892-1.093A.322.322,0,0,0,11.56,4Z" transform="translate(-3.001 -4)"/>
+      </g>
+      <rect id="Rectangle_1791-2" data-name="Rectangle 1791" width="8" height="2" transform="translate(1112.945 639.314)"/>
+    </g>
+  </g>
+</svg>
